@@ -1,6 +1,6 @@
 <!-- FULL WIDTH BANNER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Ayaan%20Shaikh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Product%20Engineer&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Ayaan%20Shaikh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Product%20Engineer&descAlignY=65" width="150%"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;JavaScript+%7C+MERN+Stack+Engineer;Building+Lottie+Pro;Developing+Scalable+Web+Platforms;Focused+on+Developer+Tools+%26+Modern+Web+Architecture"/>
