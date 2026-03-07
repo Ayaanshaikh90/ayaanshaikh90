@@ -104,66 +104,159 @@ The goal is to build a **complete ecosystem for animation asset management and i
 
 ---
 
-# 🏭 Industry Experience
-
-Experience building products across multiple industries:
-
-• E-commerce
-• Quick Commerce / Instant Delivery
-• Logistics & Inventory Systems
-• IoT Infrastructure
-• Quality Assurance Platforms
-• Digital Product Development
-
----
-
 # 🛠 Technology Stack
 
-### Programming Languages
+## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,c" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,bash" />
 </p>
+
+• JavaScript
+• TypeScript
+• Python
+• C
+• C++
+• Bash / Shell scripting
 
 ---
 
-### Frontend Technologies
+## Frontend Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,bootstrap,vite,redux,threejs" />
 </p>
+
+• React.js
+• Next.js
+• HTML5
+• CSS3
+• TailwindCSS
+• SASS / SCSS
+• Bootstrap
+• Vite
+• Redux / State Management
+• Three.js
 
 ---
 
-### Backend Technologies
+## Backend Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,apollo" />
 </p>
+
+• Node.js
+• Express.js
+• REST API Architecture
+• GraphQL APIs
+• Apollo Server
+• Prisma ORM
+• Authentication & Authorization Systems
 
 ---
 
-### Databases
+## Databases & Data Stores
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" />
 </p>
+
+• MongoDB
+• MySQL
+• PostgreSQL
+• Redis (Caching & Session Store)
+• Firebase
 
 ---
 
-### DevOps & Deployment
+## DevOps & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,vercel,netlify,nginx,linux" />
 </p>
+
+• Git Version Control
+• GitHub Repository Management
+• Docker Containers
+• Kubernetes Orchestration
+• AWS Cloud Infrastructure
+• Vercel Deployment Platform
+• Netlify Hosting Platform
+• Nginx Web Server
+• Linux Server Environments
 
 ---
 
-### Design Tools
+## CI / CD & Automation
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
 </p>
+
+• GitHub Actions
+• Jenkins
+• Continuous Integration / Continuous Deployment pipelines
+
+---
+
+## Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+</p>
+
+• Linux
+• Ubuntu Server
+• Windows Development Environment
+
+---
+
+## Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,yarn,pnpm" />
+</p>
+
+• Visual Studio Code
+• Postman API Testing
+• NPM Package Manager
+• Yarn Package Manager
+• PNPM
+
+---
+
+## Monitoring & Performance Tools
+
+• Application Performance Monitoring
+• Server Log Monitoring
+• Error Tracking & Debugging
+• Performance Optimization
+
+---
+
+## Architecture & Engineering Practices
+
+• RESTful API Design
+• Scalable System Architecture
+• Component Driven Development
+• Performance Optimization
+• Secure Authentication Systems
+• Database Schema Design
+• Clean Code & Maintainable Architecture
+
+---
+
+## Design & Product Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</p>
+
+• Figma
+• Canva
+• UI Prototyping
+• Design Systems
 
 ---
 
