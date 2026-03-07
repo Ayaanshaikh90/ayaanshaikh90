@@ -1,66 +1,106 @@
-<!-- TOP BANNER -->
+<!-- HERO BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Ayaan%20Shaikh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Lottie%20Pro&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Ayaan%20Shaikh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Lottie%20Pro&descAlignY=60"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Lottie+Pro+🚀;React+%7C+Next.js+%7C+Node.js;Shipping+Real+Products;Passionate+About+Developer+Tools"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Lottie+Pro;React+%7C+Next.js+%7C+Node.js;Crafting+Scalable+Web+Products;Shipping+Real+World+Software"/>
 </p>
 
 ---
 
-# 👋 Hey, I'm Ayaan Shaikh
+# 💫 About Me
 
-🚀 **Full Stack Developer | Product Builder**
+🚀 **Full Stack Developer focused on building scalable digital products**
 
-I'm a full-stack developer focused on building **modern, scalable web platforms and developer tools**.
+Hey 👋 I'm **Ayaan Shaikh**, a **full-stack developer and product builder** passionate about designing and engineering modern web applications.
 
-My work revolves around **building real products**, designing **clean user interfaces**, and developing **robust backend systems** that power modern web applications.
+Currently I am building **Lottie Pro**, a platform focused on **developer-friendly animation workflows and tooling** for modern web products.
 
-Currently I'm building **Lottie Pro**, a platform inspired by **LottieFiles** that helps developers and designers **discover, manage, preview, and integrate Lottie animations seamlessly into their projects.**
+My focus is not just writing code — but **shipping real products, solving real problems, and building scalable systems**.
 
----
-
-# 🚀 Current Product
-
-## 🧩 Lottie Pro
-
-**Lottie Pro** is a platform designed for developers and designers to **discover, preview, manage, and integrate Lottie animations into modern web applications.**
-
-It works as a **complete ecosystem for Lottie animations**, similar to **LottieFiles**, with a focus on performance, developer experience, and modern tooling.
-
-### Core Features
-
-✨ Discover and explore Lottie animations
-🎞 Preview animations in real time
-📦 Upload and manage animation libraries
-⚡ Optimized delivery for web applications
-🔗 Easy integration with modern frameworks
-👥 Developer-friendly APIs and tooling
-
-### Vision
-
-To build a **central platform for Lottie animations** where developers and designers can easily **find, use, and manage animations across their products.**
+I enjoy working across the **entire stack**, from **frontend UI/UX engineering to backend architecture and deployment infrastructure**.
 
 ---
 
-# 🧠 What I Focus On
+# 🚀 Current Project
 
-⚡ **Full Stack Development**
-Building complete web platforms from **frontend to backend infrastructure**.
+### 🧩 Lottie Pro
+
+A developer platform designed to improve how **Lottie animations are managed, optimized, and integrated into modern applications**.
+
+Focus areas:
+
+• Developer-first tooling
+• Performance optimized animation delivery
+• Modern frontend integrations
+• Scalable backend architecture
+
+---
+
+# 🧠 Engineering Focus
+
+⚡ **Full Stack Product Development**
+Building complete applications from concept to deployment.
 
 ⚛️ **Frontend Engineering**
-Creating modern user interfaces using **React, Next.js, and modern UI frameworks**.
+Crafting performant and interactive UI using **React & Next.js**.
 
-🧩 **Backend Architecture**
-Designing APIs, authentication systems, and scalable backend services.
+🧩 **Backend Systems**
+Designing APIs and backend services with **Node.js, Express, and modern databases**.
 
-🚀 **Product Development**
-Building **real-world platforms like Lottie Pro**.
+🚀 **Developer Tooling & Platforms**
+Currently building **Lottie Pro** as a real-world developer product.
 
-🧠 **Developer Experience**
-Interested in building **tools that improve the way developers work**.
+🧠 **System Thinking**
+Interested in architecture, scalability, and building maintainable systems.
+
+---
+
+# 🌱 Currently Working With
+
+• React.js
+• Next.js
+• Node.js
+• Express.js
+• MongoDB
+• MySQL
+• TailwindCSS
+• SASS
+• Firebase
+
+---
+
+# 🤝 Open to Collaborate
+
+I'm open to collaborating on:
+
+• Open Source Developer Tools
+• Full Stack Web Applications
+• Developer Platforms & SaaS Products
+• Modern React / Next.js Applications
+
+---
+
+# 💬 Ask Me About
+
+**Full Stack Development**
+**React / Next.js Applications**
+**Frontend Architecture**
+**UI Engineering**
+**Developer Tools**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://facebook.com/profile.php?id=61554477584569"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/ayaanshaikh.20"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ayaan-shaikh-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/ayaanshaikh21"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -97,7 +137,7 @@ Interested in building **tools that improve the way developers work**.
 
 ---
 
-### Dev & Deployment
+### Dev Tools & Platforms
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
@@ -113,41 +153,13 @@ Interested in building **tools that improve the way developers work**.
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/ayaan-shaikh-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/ayaanshaikh.20">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/ayaanshaikh21">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ayaanshaikh90\&theme=tokyonight\&hide_border=true\&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ayaanshaikh90\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayaanshaikh90\&theme=tokyonight\&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaanshaikh90\&theme=tokyonight\&layout=compact\&hide_border=true)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaanshaikh90\&theme=tokyonight\&hide_border=true\&layout=compact)
 
 ---
 
@@ -158,9 +170,9 @@ Interested in building **tools that improve the way developers work**.
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=ayaanshaikh90&icon=6&color=6"/>
+  <img src="https://visitcount.itsvg.in/api?id=ayaanshaikh90&icon=6&color=6"/>
 </p>
 
 ---
 
-⭐ **Building products • Solving problems • Shipping code**
+⭐ **Building products. Learning constantly. Shipping code.**
