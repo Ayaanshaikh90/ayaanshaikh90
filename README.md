@@ -285,7 +285,7 @@ The goal is to build a **complete ecosystem for animation asset management and i
 # 🌐 Connect
 
 • LinkedIn
-https://linkedin.com/in/ayaan-shaikh-dev
+https://linkedin.com/in/ayaanshaikh-dev
 
 • Instagram
 https://instagram.com/ayaanshaikh.05
